@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nova524
-- 👀 I’m interested in ... HTML + CSS + JS
-- 🌱 I’m currently learning ... JS
+- 👀 I’m interested in ... Java
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... WEBSITE
 - 📫 How to reach me ... seungmin10524@gmail.com
 
