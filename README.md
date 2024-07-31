@@ -1,11 +1,5 @@
 # 👋 안녕하세요! 저는 슈퍼노바입니다
 
-## 🧑‍💻 나에 대해
-
-- 🌱 현재 배우고 있는 것: 러스트 프로그래밍 언어
-- 📫 연락 방법: seungmin10524@gmail.com
-- 😄 취미: 저는 gta5라는 게임을 즐겨하고 있습니다
-
 ## 🛠️ 기술 스택
 
 ### 언어
@@ -24,9 +18,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub 통계
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nova524&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nova524&layout=compact&theme=radical)
 
 ## 📫 연락 방법
 
